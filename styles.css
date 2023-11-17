@@ -1,6 +1,7 @@
 input{
     border-radius: 15px;
     padding: 2px;
+    border: 2px solid black;
     }
 input{
 
@@ -13,4 +14,5 @@ select[name="marca"]{
 .select-box {
     border-radius: 15px;
     padding: 2px;
+    border: 2px solid black;
 }
